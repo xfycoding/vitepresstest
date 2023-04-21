@@ -1,0 +1,24 @@
+{
+  "name": "xfycoding",
+  "version": "1.0.0",
+  "description": "基于vitepress搭建个人博客",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfycoding/vitepresstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfycoding/vitepresstest/issues"
+  },
+  "homepage": "https://github.com/xfycoding/vitepresstest#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.73"
+  }
+}
